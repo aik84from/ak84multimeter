@@ -1,0 +1,33 @@
+{
+  "name": "ak84multimeter",
+  "version": "0.0.1",
+  "author": "Kalinin Alexandr <aik84from@gmail.com> (https://github.com/aik84from)",
+  "description": "High-performance and lightweight JavaScript library. Ohms law calculator: voltage, current, resistance, power and voltage divider.",
+  "keywords": [
+    "multimeter",
+    "Ohms law",
+    "voltage",
+    "current",
+    "resistance",
+    "power",
+    "volts",
+    "amperes",
+    "ohms",
+    "watts",
+    "voltage divider"
+  ],
+  "main": "./ak84multimeter.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aik84from/ak84multimeter.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
